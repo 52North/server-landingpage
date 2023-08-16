@@ -1,0 +1,81 @@
+h1 {
+  padding: 15px;
+  color: #66c5e4;
+  font-size: 250%;
+  text-align: center!important;
+  font-weight: 750;
+}
+
+h2 {
+  color: #66c5e4;
+  text-align: center!important;
+  font-weight: 500;
+}
+
+h1,
+div.landing-page-button {
+  font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+}
+
+footer {
+  text-align: center!important;
+  font-size: 75%;
+}
+
+#landing-page-buttons div.icon span {
+  font-size: 150px;
+  color: #23271f;
+}
+
+.landing-page-buttons {
+  background: #f2f2f2;
+}
+
+#landing-page-buttons a {
+  text-decoration: none;
+}
+
+a:hover,
+#landing-page-buttons a:hover,
+#landing-page-buttons a:hover div.icon span,
+#landing-page-buttons a:hover div.caption,
+#landing-page-buttons a:hover div.explanation {
+    text-decoration: none;
+    color: #66c5e4;
+}
+
+a:hover img {
+  box-shadow: 4px 4px 10px rgba(102,197,228,0.8);
+}
+
+#landing-page-buttons a:hover div.landing-page-button {
+  box-shadow:4px 4px 10px rgba(0,0,0,0.8);
+}
+
+#landing-page-buttons div.caption {
+  color: #23271f;
+  font-size: 150%;
+}
+
+#landing-page-buttons div.explanation {
+  color: #23271f;
+  text-align: left;
+  padding-top: 30px;
+}
+
+
+#landing-page-buttons div.landing-page-button {
+  cursor: pointer;
+  text-align: center;
+  background-color: #f2f2f2;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+div.normal-text {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
